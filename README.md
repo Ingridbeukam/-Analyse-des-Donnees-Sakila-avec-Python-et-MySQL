@@ -71,11 +71,5 @@ L'objectif est de fournir des insights sur les performances commerciales, les pr
 
 ---
 
-## ▶️ Démarrage rapide
-
-1. **Clonez le dépôt :**
-
-```bash
-git clone https://github.com/tonutilisateur/sakila-python.git
-cd sakila-python
----
+📬 Contact
+Tu peux me contacter via ingridbeukam@gmail.com ou LinkedIn https://www.linkedin.com/in/ingrid-madjougang-beukam/ pour toute question ou suggestion.
