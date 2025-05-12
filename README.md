@@ -20,7 +20,7 @@ L'objectif est de fournir des insights sur les performances commerciales, les pr
 
 - Python 3.x  
 - MySQL  
-- Bibliothèques : `pymysql`, `pandas`, `matplotlib`, `seaborn`, `dotenv`, `sqlalchemy`
+- Bibliothèques : `pandas`, `matplotlib`, `seaborn`, `dotenv`, `sqlalchemy`
 
 ---
 
